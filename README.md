@@ -222,5 +222,5 @@
 </ul>
 <ul>
 <li><a title="Vladimir E. Zakharov" href="https://en.wikipedia.org/wiki/Vladimir_E._Zakharov">Vladimir E. Zakharov</a>&nbsp;(inverse scattering transform solution generating method),</li>
-<li><a class="mw-redirect" title="Yakov Borisovich Zel'dovich" href="https://en.wikipedia.org/wiki/Yakov_Borisovich_Zel%27dovich">Yakov Borisovich Zel'dovich</a>&nbsp;(early evidence for&nbsp;<a class="mw-redirect" title="No hair theorem" href="https://en.wikipedia.org/wiki/No_hair_theorem">no hair theorem</a>, early evidence of black-hole radiation, relativistic astrophysics),</li>
+<li><a class="mw-redirect" title="Yakov Borisovich Zel'dovich" href="https://en.wikipedia.org/wiki/Yakov_Borisovich_Zel%27dovich">Yakov Borisovich Zel'dovich</a>&nbsp;(early evidence for&nbsp;<a class="mw-redirect" title="No hair theorem" href="https://en.wikipedia.org/wiki/No_hair_theorem">no hair theorem</a>, early evidence of black-hole radiation, relativistic astrophysics).</li>
 </ul>
