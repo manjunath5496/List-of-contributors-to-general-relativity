@@ -402,7 +402,8 @@ General Relativity</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(92).pdf" style="text-decoration:none;">Mathematical
 Problems of General Relativity I</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(93).pdf" style="text-decoration:none;"> Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(93).pdf" style="text-decoration:none;"> Introduction
+to Modern Canonical Quantum General Relativity</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(94).pdf" style="text-decoration:none;">Introducing Relativity: A Graphic Guide</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(95).pdf" style="text-decoration:none;">Gauge Field Theories: Spin One and Spin Two: 100 Years After General Relativity</a></li>  
