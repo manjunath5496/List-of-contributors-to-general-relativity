@@ -104,7 +104,7 @@
 <li><a class="mw-redirect" title="Lev D. Landau" href="https://en.wikipedia.org/wiki/Lev_D._Landau">Lev D. Landau</a>&nbsp;(Landau-Lifshitz formulation, textbook),</li>
 <li><a class="mw-redirect" title="Georges-Henri Lema&icirc;tre" href="https://en.wikipedia.org/wiki/Georges-Henri_Lema%C3%AEtre">Georges-Henri Lema&icirc;tre</a>&nbsp;(cosmological model, LTB dust, Lema&icirc;tre chart on Schwarzschild vacuum),</li>
 <li><a title="Josef Lense" href="https://en.wikipedia.org/wiki/Josef_Lense">Josef Lense</a>&nbsp;(Lense-Thirring precession),</li>
-<li><a title="Tullio Levi-Civita" href="https://en.wikipedia.org/wiki/Tullio_Levi-Civita">Tullio Levi-Civita</a>&nbsp;(static vacuums, C-metric; see also related list below),</li>
+<li><a title="Tullio Levi-Civita" href="https://en.wikipedia.org/wiki/Tullio_Levi-Civita">Tullio Levi-Civita</a>&nbsp;(static vacuums, C-metric),</li>
 <li><a title="Andr&eacute; Lichnerowicz" href="https://en.wikipedia.org/wiki/Andr%C3%A9_Lichnerowicz">Andr&eacute; Lichnerowicz</a>&nbsp;(3+1 formalism, matching conditions, Lichnerowicz equation),</li>
 <li><a class="mw-redirect" title="Evgeny M. Lifshitz" href="https://en.wikipedia.org/wiki/Evgeny_M._Lifshitz">Evgeny M. Lifshitz</a>&nbsp;(Landau&ndash;Lifschitz gravitational energy-momentum complex, BKL conjecture, textbook),</li>
 <li><a class="mw-redirect" title="Alan P. Lightman" href="https://en.wikipedia.org/wiki/Alan_P._Lightman">Alan P. Lightman</a>&nbsp;(problem book),</li>
