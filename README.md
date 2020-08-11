@@ -242,7 +242,7 @@
 Curvature Structure in General Relativity</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(7).pdf" style="text-decoration:none;">Hawking on the big bang and black holes</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(8).pdf" style="text-decoration:none;"> Ray Optics, Fermat’s Principle, and Applications to General Relativity </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(8).pdf" style="text-decoration:none;"> Ray Optics, Fermat's Principle, and Applications to General Relativity </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(9).pdf" style="text-decoration:none;">General Relativity and Einstein's Equations</a></li>
   
    
@@ -336,84 +336,90 @@ and Faster-than-Light Travel in General Relativity</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(60).pdf" style="text-decoration:none;">David Hilbert's Lectures on the Foundations of Physics 1915–1927 </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(61).pdf" style="text-decoration:none;">Enhanced Rotational Invariant Convolutional Neural Network for Supernovae Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(61).pdf" style="text-decoration:none;">General Relativity: An Introduction for Physicists</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(62).pdf" style="text-decoration:none;">CosmoFlow: Using Deep Learning to Learn the Universe at Scale</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(63).pdf" style="text-decoration:none;">Analyzing Inverse Problems with Invertible Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(63).pdf" style="text-decoration:none;">Unsolved Problems in Special and General Relativity</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(64).pdf" style="text-decoration:none;">Single-pulse classifier for the LOFAR Tied-Array All-sky Survey</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(64).pdf" style="text-decoration:none;">From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(65).pdf" style="text-decoration:none;">Machine Learning Classification of Gaia Data Release 2 </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(65).pdf" style="text-decoration:none;">Introduction to Classical Mechanics: With Problems and Solutions </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(66).pdf" style="text-decoration:none;">Searching for Sub-Second Stellar Variability with Wide-Field Star Trails and Deep Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(66).pdf" style="text-decoration:none;">Hidden Dimensions: The Unification of Physics and Consciousness</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(67).pdf" style="text-decoration:none;">Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(67).pdf" style="text-decoration:none;">General
+Relativity: Basics and Beyond</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(68).pdf" style="text-decoration:none;">Protostellar classification using supervised machine learning algorithms</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(68).pdf" style="text-decoration:none;">Einstein's
+General Theory of Relativity</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(69).pdf" style="text-decoration:none;">Detecting Radio Frequency Interference in radio-antenna arrays with the Recurrent Neural Network algorithm</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(69).pdf" style="text-decoration:none;">Advanced Lectures on General Relativity</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(70).pdf" style="text-decoration:none;">QuasarNET: Human-level spectral classification and redshifting with Deep Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(70).pdf" style="text-decoration:none;">It's About Time: Elementary Mathematical Aspects of Relativity</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(71).pdf" style="text-decoration:none;">Stellar Cluster Detection using GMM with Deep Variational Autoencoder</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(71).pdf" style="text-decoration:none;">Rotating fields in general relativity</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(72).pdf" style="text-decoration:none;">Galaxy detection and identification using deep learning and data augmentation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(72).pdf" style="text-decoration:none;">Mathematica
+for Theoretical Physics: Electrodynamics, Quantum Mechanics, General Relativity, and Fractals</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(73).pdf" style="text-decoration:none;">Towards online triggering for the radio detection of air showers using deep neural networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(74).pdf" style="text-decoration:none;">From FATS to feets: Further improvements to an astronomical feature extraction tool based on machine learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(75).pdf" style="text-decoration:none;">Deep Learning Based Detection of Cosmological Diffuse Radio Sources</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(76).pdf" style="text-decoration:none;">Bayesian sparse reconstruction: a brute-force approach to astronomical imaging and machine learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(73).pdf" style="text-decoration:none;">Tensors, Relativity, and Cosmology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(74).pdf" style="text-decoration:none;">How to Teach Relativity to Your Dog</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(75).pdf" style="text-decoration:none;">The Universe of General Relativity</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(76).pdf" style="text-decoration:none;">Einstein's Italian Mathematicians: Ricci, Levi-Civita, and the Birth of General Relativity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(77).pdf" style="text-decoration:none;">Segmentation of coronal holes in solar disk images with a convolutional neural network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(77).pdf" style="text-decoration:none;">The Perfect Theory: A Century of Geniuses and the Battle over General Relativity</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(78).pdf" style="text-decoration:none;">Graph Neural Networks for IceCube Signal Classification</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(79).pdf" style="text-decoration:none;">Galaxy morphology prediction using capsule networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(78).pdf" style="text-decoration:none;">Shock Wave Interactions in General Relativity: A Locally Inertial Glimm Scheme for Spherically Symmetric Spacetimes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(79).pdf" style="text-decoration:none;">Oscillatory Models in General Relativity</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(80).pdf" style="text-decoration:none;">TSARDI: a Machine Learning data rejection algorithm for transiting exoplanet light curves</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(80).pdf" style="text-decoration:none;">Introduction to General Relativity, Black Holes, and Cosmology</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(81).pdf" style="text-decoration:none;">DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(81).pdf" style="text-decoration:none;">A Student's Manual for A First Course in General Relativity</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(82).pdf" style="text-decoration:none;">Scalable Solutions for Automated Single Pulse Identification and Classification in Radio Astronomy</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(83).pdf" style="text-decoration:none;">Multiband galaxy morphologies for CLASH: a convolutional neural network transferred from CANDELS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(84).pdf" style="text-decoration:none;">Classifying Lensed Gravitational Waves in the Geometrical Optics Limit with Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(83).pdf" style="text-decoration:none;">Relativity for Everyone: How Space-Time Bends</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(84).pdf" style="text-decoration:none;">Introduction
+to Differential Geometry and General Relativity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(85).pdf" style="text-decoration:none;">Deep multi-survey classification of variable stars</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(86).pdf" style="text-decoration:none;">Deblending galaxy superpositions with branched generative adversarial networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(85).pdf" style="text-decoration:none;">Complex
+General Relativity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(86).pdf" style="text-decoration:none;">Elements of General Relativity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(87).pdf" style="text-decoration:none;">On the dissection of degenerate cosmologies with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(88).pdf" style="text-decoration:none;">Distinguishing standard and modified gravity cosmologies with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(89).pdf" style="text-decoration:none;">A hybrid approach to machine learning annotation of large galaxy image databases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(87).pdf" style="text-decoration:none;">The Cauchy Problem in General Relativity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(88).pdf" style="text-decoration:none;">Relativity: A Very Short Introduction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(89).pdf" style="text-decoration:none;">The Mathematics of Continuity: From General Relativity to Classical Dynamics</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(90).pdf" style="text-decoration:none;">Towards a radially-resolved semi-analytic model for the evolution of disc galaxies tuned with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(91).pdf" style="text-decoration:none;">Scientific Domain Knowledge Improves Exoplanet Transit Classification with Deep Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(90).pdf" style="text-decoration:none;">ABC of Relat ivity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(91).pdf" style="text-decoration:none;">Relativity: The Special and the General Theory</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(92).pdf" style="text-decoration:none;">Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(92).pdf" style="text-decoration:none;">Mathematical
+Problems of General Relativity I</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(93).pdf" style="text-decoration:none;"> Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(94).pdf" style="text-decoration:none;">Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(94).pdf" style="text-decoration:none;">Introducing Relativity: A Graphic Guide</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(95).pdf" style="text-decoration:none;">Finding high-redshift strong lenses in DES using convolutional neural networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(95).pdf" style="text-decoration:none;">Gauge Field Theories: Spin One and Spin Two: 100 Years After General Relativity</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(96).pdf" style="text-decoration:none;">Classification of gravitational-wave glitches via dictionary learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(96).pdf" style="text-decoration:none;">Mechanism and Machine Theory</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(97).pdf" style="text-decoration:none;">Reduced-order modeling with artificial neurons for gravitational-wave inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(97).pdf" style="text-decoration:none;">Quantum Mechanics from General Relativity: An Approximation for a Theory of Inertia</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(98).pdf" style="text-decoration:none;">Probabilistic Random Forest: A machine learning algorithm for noisy datasets</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(98).pdf" style="text-decoration:none;">Recent Developments in General Relativity</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(99).pdf" style="text-decoration:none;">Machine-learning Approaches to Exoplanet Transit Detection and Candidate Validation in Wide-field Ground-based Surveys</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(99).pdf" style="text-decoration:none;">Spacetime and Geometry: An Introduction to General Relativity</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(100).pdf" style="text-decoration:none;">Classification of Multiwavelength Transients with Machine Learning</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(100).pdf" style="text-decoration:none;">The Expanding Worlds of General Relativity</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(101).pdf" style="text-decoration:none;">Identification of Low Surface Brightness Tidal Features in Galaxies Using Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(101).pdf" style="text-decoration:none;">Topics in Mathematical Physics General Relativity and Cosmology in Honor of Jerzy Plebanski</a></li> 
   
 
  
