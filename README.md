@@ -297,7 +297,7 @@ Tensor Analysis</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(36).pdf" style="text-decoration:none;">A Short Course in General Relativity</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(37).pdf" style="text-decoration:none;">A First Course in General Relativity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(37).pdf" style="text-decoration:none;">Deterministic Chaos in General Relativity</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(38).pdf" style="text-decoration:none;">The Special Theory of Relativity: Foundations, Theory, Verification, Applications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(39).pdf" style="text-decoration:none;">Singular Null Hypersurfaces in General Relativity: Light-Like Signals from Violent Astrophysical Events</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(40).pdf" style="text-decoration:none;">The n-Body Problem in General Relativity</a></li>                              
@@ -338,7 +338,7 @@ and Faster-than-Light Travel in General Relativity</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(61).pdf" style="text-decoration:none;">General Relativity: An Introduction for Physicists</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(62).pdf" style="text-decoration:none;">CosmoFlow: Using Deep Learning to Learn the Universe at Scale</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(62).pdf" style="text-decoration:none;">Exact Space-Times in Einstein's General Relativity</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(63).pdf" style="text-decoration:none;">Unsolved Problems in Special and General Relativity</a></li>                              
 
@@ -382,7 +382,7 @@ for Theoretical Physics: Electrodynamics, Quantum Mechanics, General Relativity,
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(81).pdf" style="text-decoration:none;">A Student's Manual for A First Course in General Relativity</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(82).pdf" style="text-decoration:none;">Scalable Solutions for Automated Single Pulse Identification and Classification in Radio Astronomy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(82).pdf" style="text-decoration:none;">General Relativity and Cosmology [Lecture notes]</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(83).pdf" style="text-decoration:none;">Relativity for Everyone: How Space-Time Bends</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-contributors-to-general-relativity/blob/master/gral(84).pdf" style="text-decoration:none;">Introduction
